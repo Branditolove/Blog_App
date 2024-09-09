@@ -1,0 +1,6 @@
+[submodule "blog-frontend"]
+	path = blog-frontend
+	url = https://github.com/Branditolove/blog-frontend.git
+[submodule "blog_api"]
+	path = blog_api
+	url = https://github.com/Branditolove/blog_api.git
